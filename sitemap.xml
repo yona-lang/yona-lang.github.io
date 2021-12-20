@@ -2,272 +2,272 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://yona-lang.org/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/about/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/syntax/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/features/data-types/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/features/module-loader/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/features/operators/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/features/pattern-matching/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/features/polyglot/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/features/resource-management/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/getting_started/installation/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/getting_started/release-notes/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/dict/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/exception/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/file/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/io/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/java/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/json/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/overview/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/random/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/regexp/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/scheduler/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/seq/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/set/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/stm/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/stopwatch/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/system/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/time/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/transducers/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/tuple/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/types/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/context/local/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/async/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/drop/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/eval/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/float/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/identity/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/infi/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/int/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/never/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/ord/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/sleep/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/str/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/timeout/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/functions/times/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/http/client/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/http/server/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/java/types/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/misc/timetuple/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/socket/tcp/client/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/socket/tcp/connection/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/socket/tcp/server/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/terminal/colors/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/terminal/colors/background/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://yona-lang.org/stdlib/terminal/colors/foreground/</loc>
-         <lastmod>2021-09-02</lastmod>
+         <lastmod>2021-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
